@@ -1,6 +1,7 @@
 package bootcamp;
 
 import java.util.Scanner;
+
 import static bootcamp.SimpleMethods.simpleInputOutput;
 import static bootcamp.SyntheticData.dummy;
 
